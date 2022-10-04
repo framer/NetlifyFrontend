@@ -1,6 +1,7 @@
-# Three different paths point to three different Framer sites
+# Three different paths point to three different Framer sites:
 /demo1/*  https://safe-presentations-451616.framer.app/:splat  200
 /demo2/*  https://exact-road-711014.framer.app/:splat  200
 /demo3/*  https://spot-strive-526314.framer.app/:splat  200
 
 # Even just the Framer site will work
+/framer/*  https://www.framer.com/:splat  200
